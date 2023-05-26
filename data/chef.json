@@ -1,0 +1,176 @@
+[
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+        "name": "Jimmy Dane",
+        "img": "https://news.uga.edu/wp-content/uploads/2022/11/ChefJorgeNoriega-07-Square.jpg",
+        "experience": 3,
+        "about": "Jimmy Dane is a British celebrity chef, restaurateur, television personality and writer. His restaurant group, Gordon Ramsay Restaurants, was founded in 1997 and has been awarded 17 Michelin stars overall; it currently holds a total of seven.",
+        "likes": 140,
+        "recipes": [
+            {
+                "name": "pizza",
+                "ingredients": ["cheese", "meat", "vegetables", "tomato sauce", "pizza dough"],
+                "cooking_method": "Preheat your oven to around 450-500°F (230-260°C). Place the pizza in the oven on a pizza stone or baking sheet and bake for around 10-15 minutes or until the crust is golden brown and the cheese is melted and bubbly.",
+                "rating": 4.5
+            },
+            {
+                "name": "burger",
+                "ingredients": ["bun", "meat", "condiments", "toppings", "condiments"],
+                "cooking_method": "Preheat grill or grill pan over medium-high heat. Shape ground beef into patties and season.Cook for 3-4 minutes on one side, flip and cook for an additional 2-3 minutes. Add cheese during last minute of cooking to melt. Let patties rest for a few minutes. Toast buns.Assemble burger with toppings and condiments",
+                "rating": 5
+            },
+            {
+                "name": "noodles",
+                "ingredients": ["flour", "eggs", "water", "salt", "oil"],
+                "cooking_method": "Preheat grill or grill pan over medium-high heat. Shape ground beef into patties and season.Cook for 3-4 minutes on one side, flip and cook for an additional 2-3 minutes. Add cheese during last minute of cooking to melt. Let patties rest for a few minutes. Toast buns.Assemble burger with toppings and condiments",
+                "rating": 5
+            }
+        ]
+    },
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6b",
+        "name": "Sheamus",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80",
+        "experience": 1,
+        "about": "Sheamus is a British celebrity chef, restaurateur, television personality and writer. His restaurant group, Gordon Ramsay Restaurants, was founded in 1997 and has been awarded 17 Michelin stars overall; it currently holds a total of seven.",
+        "likes": 260,
+        "recipes": [
+            {
+                "name": "wonton soup",
+                "ingredients": ["wontons", "broth", "vegetables", "seasonings", "garnishes"],
+                "cooking_method": "Make wonton filling by combining ground pork, shrimp, seasonings, and vegetables. Assemble wontons by placing a spoonful of filling onto a wonton wrapper, folding and sealing the edges. Bring broth to a boil, add wontons and cook for 5-7 minutes. Add vegetables and seasonings and cook for an additional 2-3 minutes. Serve hot, garnished with chopped green onions, cilantro, and/or fried garlic.",
+                "rating": 4
+            },
+            {
+                "name": "burger",
+                "ingredients": ["bun", "meat", "condiments", "toppings", "condiments"],
+                "cooking_method": "Preheat grill or grill pan over medium-high heat. Shape ground beef into patties and season.Cook for 3-4 minutes on one side, flip and cook for an additional 2-3 minutes. Add cheese during last minute of cooking to melt. Let patties rest for a few minutes. Toast buns.Assemble burger with toppings and condiments",
+                "rating": 4.5
+            },
+            {
+                "name": "pizza",
+                "ingredients": ["cheese", "meat", "vegetables", "tomato sauce", "pizza dough"],
+                "cooking_method": "Preheat your oven to around 450-500°F (230-260°C). Place the pizza in the oven on a pizza stone or baking sheet and bake for around 10-15 minutes or until the crust is golden brown and the cheese is melted and bubbly.",
+                "rating": 4.5
+            },
+            {
+                "name": "chicken fried rice",
+                "ingredients": ["cooked rice", "eggs", "chicken", "vegetables", "soy sauce"],
+                "cooking_method": "Cook rice and set aside. Heat oil in a wok or large pan over high heat. Add diced chicken and stir-fry until cooked through. Add diced vegetables and cook for a few minutes until tender. Push chicken and vegetables to the sides of the wok or pan and scramble eggs in the middle. Add cooked rice and soy sauce, and stir-fry until everything is well combined. Serve hot.",
+                "rating": 5
+            }
+        ]
+    },
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6c",
+        "name": "Mark Henry",
+        "img": "https://www.hitsa.com.au/wp-content/uploads/types-of-chefs.jpg",
+        "experience": 2,
+        "about": "Mark Henry is a British celebrity chef, restaurateur, television personality and writer. His restaurant group, Gordon Ramsay Restaurants, was founded in 1997 and has been awarded 17 Michelin stars overall; it currently holds a total of seven.",
+        "likes": 170,
+        "recipes": [
+            {
+                "name": "chicken fried rice",
+                "ingredients": ["cooked rice", "eggs", "chicken", "vegetables", "soy sauce"],
+                "cooking_method": "Cook rice and set aside. Heat oil in a wok or large pan over high heat. Add diced chicken and stir-fry until cooked through. Add diced vegetables and cook for a few minutes until tender. Push chicken and vegetables to the sides of the wok or pan and scramble eggs in the middle. Add cooked rice and soy sauce, and stir-fry until everything is well combined. Serve hot.",
+                "rating": 5
+            },
+            {
+                "name": "pizza",
+                "ingredients": ["cheese", "meat", "vegetables", "tomato sauce", "pizza dough"],
+                "cooking_method": "Preheat your oven to around 450-500°F (230-260°C). Place the pizza in the oven on a pizza stone or baking sheet and bake for around 10-15 minutes or until the crust is golden brown and the cheese is melted and bubbly.",
+                "rating": 4.5
+            },
+            {
+                "name": "wonton soup",
+                "ingredients": ["wontons", "broth", "vegetables", "seasonings", "garnishes"],
+                "cooking_method": "Make wonton filling by combining ground pork, shrimp, seasonings, and vegetables. Assemble wontons by placing a spoonful of filling onto a wonton wrapper, folding and sealing the edges. Bring broth to a boil, add wontons and cook for 5-7 minutes. Add vegetables and seasonings and cook for an additional 2-3 minutes. Serve hot, garnished with chopped green onions, cilantro, and/or fried garlic.",
+                "rating": 4
+            }
+        ]
+    },
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6d",
+        "name": "Brock Lasner",
+        "img": "https://static.thehoneycombers.com/wp-content/uploads/sites/2/2021/08/Favourite-local-food-chef-Louis-Han-NAEUM.png",
+        "experience": 4,
+        "about": "Brock Lasner is a British celebrity chef, restaurateur, television personality and writer. His restaurant group, Gordon Ramsay Restaurants, was founded in 1997 and has been awarded 17 Michelin stars overall; it currently holds a total of seven.",
+        "likes": 250,
+        "recipes": [
+            {
+                "name": "chicken fried rice",
+                "ingredients": ["cooked rice", "eggs", "chicken", "vegetables", "soy sauce"],
+                "cooking_method": "Cook rice and set aside. Heat oil in a wok or large pan over high heat. Add diced chicken and stir-fry until cooked through. Add diced vegetables and cook for a few minutes until tender. Push chicken and vegetables to the sides of the wok or pan and scramble eggs in the middle. Add cooked rice and soy sauce, and stir-fry until everything is well combined. Serve hot.",
+                "rating": 5
+            },
+            {
+                "name": "noodles",
+                "ingredients": ["flour", "eggs", "water", "salt", "oil"],
+                "cooking_method": "Preheat grill or grill pan over medium-high heat. Shape ground beef into patties and season.Cook for 3-4 minutes on one side, flip and cook for an additional 2-3 minutes. Add cheese during last minute of cooking to melt. Let patties rest for a few minutes. Toast buns.Assemble burger with toppings and condiments",
+                "rating": 5
+            },
+            {
+                "name": "wonton soup",
+                "ingredients": ["wontons", "broth", "vegetables", "seasonings", "garnishes"],
+                "cooking_method": "Make wonton filling by combining ground pork, shrimp, seasonings, and vegetables. Assemble wontons by placing a spoonful of filling onto a wonton wrapper, folding and sealing the edges. Bring broth to a boil, add wontons and cook for 5-7 minutes. Add vegetables and seasonings and cook for an additional 2-3 minutes. Serve hot, garnished with chopped green onions, cilantro, and/or fried garlic.",
+                "rating": 4
+            }
+        ]
+    },
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6e",
+        "name": "Nicki Brooke",
+        "img": "https://images.squarespace-cdn.com/content/v1/63d0a16cfad8c1759df2fe31/84c22bcc-2730-47bd-b470-0c94c67fcbc9/GCBC15_Preeya+Alexander_1L0A2591.jpg",
+        "experience": 2,
+        "about": "Nicki Brooke is a British celebrity chef, restaurateur, television personality and writer. His restaurant group, Gordon Ramsay Restaurants, was founded in 1997 and has been awarded 17 Michelin stars overall; it currently holds a total of seven.",
+        "likes": 360,
+        "recipes": [
+            {
+                "name": "burger",
+                "ingredients": ["bun", "meat", "condiments", "toppings", "condiments"],
+                "cooking_method": "Preheat grill or grill pan over medium-high heat. Shape ground beef into patties and season.Cook for 3-4 minutes on one side, flip and cook for an additional 2-3 minutes. Add cheese during last minute of cooking to melt. Let patties rest for a few minutes. Toast buns.Assemble burger with toppings and condiments",
+                "rating": 4.5
+            },
+            {
+                "name": "noodles",
+                "ingredients": ["flour", "eggs", "water", "salt", "oil"],
+                "cooking_method": "Preheat grill or grill pan over medium-high heat. Shape ground beef into patties and season.Cook for 3-4 minutes on one side, flip and cook for an additional 2-3 minutes. Add cheese during last minute of cooking to melt. Let patties rest for a few minutes. Toast buns.Assemble burger with toppings and condiments",
+                "rating": 3.5
+            },
+            {
+                "name": "chicken fried rice",
+                "ingredients": ["cooked rice", "eggs", "chicken", "vegetables", "soy sauce"],
+                "cooking_method": "Cook rice and set aside. Heat oil in a wok or large pan over high heat. Add diced chicken and stir-fry until cooked through. Add diced vegetables and cook for a few minutes until tender. Push chicken and vegetables to the sides of the wok or pan and scramble eggs in the middle. Add cooked rice and soy sauce, and stir-fry until everything is well combined. Serve hot.",
+                "rating": 4
+            }
+        ]
+    },
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6f",
+        "name": "Randy Orton",
+        "img": "https://resume-example.com/wp-content/uploads/2021/05/professional-chef-man-on-job-interview-talking-with-woman-in-kitchen-1024x682.jpg",
+        "experience": 5,
+        "about": "Randy Orton is a British celebrity chef, restaurateur, television personality and writer. His restaurant group, Gordon Ramsay Restaurants, was founded in 1997 and has been awarded 17 Michelin stars overall; it currently holds a total of seven.",
+        "likes": 450,
+        "recipes": [
+            {
+                "name": "burger",
+                "ingredients": ["bun", "meat", "condiments", "toppings", "condiments"],
+                "cooking_method": "Preheat grill or grill pan over medium-high heat. Shape ground beef into patties and season.Cook for 3-4 minutes on one side, flip and cook for an additional 2-3 minutes. Add cheese during last minute of cooking to melt. Let patties rest for a few minutes. Toast buns.Assemble burger with toppings and condiments",
+                "rating": 4.5
+            },
+            {
+                "name": "noodles",
+                "ingredients": ["flour", "eggs", "water", "salt", "oil"],
+                "cooking_method": "Preheat grill or grill pan over medium-high heat. Shape ground beef into patties and season.Cook for 3-4 minutes on one side, flip and cook for an additional 2-3 minutes. Add cheese during last minute of cooking to melt. Let patties rest for a few minutes. Toast buns.Assemble burger with toppings and condiments",
+                "rating": 3.5
+            },
+            {
+                "name": "pizza",
+                "ingredients": ["cheese", "meat", "vegetables", "tomato sauce", "pizza dough"],
+                "cooking_method": "Preheat your oven to around 450-500°F (230-260°C). Place the pizza in the oven on a pizza stone or baking sheet and bake for around 10-15 minutes or until the crust is golden brown and the cheese is melted and bubbly.",
+                "rating": 5
+            }
+        ]
+    }
+]
